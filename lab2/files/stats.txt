@@ -1,0 +1,3 @@
+Largest : 499
+Smallest : -500
+Average : 0.919
